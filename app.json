@@ -1,0 +1,60 @@
+{
+  "expo": {
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/icon96.png",
+          "color": "#CA2C92",
+          "sounds": [],
+          "androidMode": "default",
+          "iosDisplayInForeground": true
+        }
+      ]
+    ],
+    "name": "45CM",
+    "slug": "45cm",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/iconApp.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.appvinacm.app",
+      "buildNumber": "1.0.0",
+      "supportsTablet": true,
+      "config": {
+        "googleMapsApiKey": "AIzaSyBR6TtYvpyGG70j8DF4DqeMDY38ZJ0UIU4"
+      }
+    },
+    "android": {
+      "package": "com.appvinacm.app",
+      "useNextNotificationsApi":true,
+      "versionCode": 1,
+      "config":{
+        "googleMaps": {
+          "apiKey": "AIzaSyBQl47WtUosAHSHBGfEca47q2115PVrHe8"
+        }
+      },
+      "googleServicesFile": "./google-services.json"
+    },
+    "facebookScheme": "fb431526765299696",
+    "facebookAppId": "431526765299696",
+    "facebookDisplayName": "45cm",
+    "description": "45cm Mobile Application"
+  }
+}

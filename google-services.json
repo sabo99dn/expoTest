@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739544056094",
+    "project_id": "cm-project-332409",
+    "storage_bucket": "cm-project-332409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739544056094:android:47e39d63e34eb38170490f",
+        "android_client_info": {
+          "package_name": "com.appvinacm.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739544056094-sjcesjeme4c9pn4h9t6imdceu2djmrcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCciZUO_4cI61RY2zlv6bSvxqiiZVwsjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739544056094-sjcesjeme4c9pn4h9t6imdceu2djmrcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
